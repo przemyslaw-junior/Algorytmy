@@ -1,4 +1,5 @@
-W tym dziale znajdą się algorytmy z ponizszej listy\n.
+W tym dziale znajdą się algorytmy z ponizszej listy
+
 Kody będą pisane w jezyku C++
 Każdy branch będzie zawierał osobny materiał
 1 - Lista 
