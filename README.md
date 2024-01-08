@@ -10,10 +10,10 @@ Każdy branch będzie zawierał osobny materiał
 
 3 - Drzewo BST
 
-5 - Kopiec binarny
+4 - Kopiec binarny
 
-6 - Tablica mieszająca
+5 - Tablica mieszająca
 
-8 - Algorytm Kruskala i struktura Union-Find
+6 - Algorytm Kruskala i struktura Union-Find
 
-9 - Powłoka wypukła, algorytm Grahama
+7 - Powłoka wypukła, algorytm Grahama
